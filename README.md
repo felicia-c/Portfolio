@@ -1,3 +1,3 @@
 # Portfolio
-This is a Portfolio Template test based on the Boostrap Theme Freelancer.
+This is a Portfolio Template test (Freelancer Theme)
 
